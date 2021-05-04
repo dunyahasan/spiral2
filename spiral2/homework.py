@@ -1,9 +1,9 @@
 def spiralize(size, n=1):
     
-    n= #sum
-    x= #diagonals
-    i= #number in spiral
-    z= #starting number
+    n #sum
+    x #diagonals
+    i #number in spiral
+    z #starting number
     
     
     for i= 15 to 251001: 
