@@ -16,6 +16,9 @@ sum(x)= n
   
    return_value = n
     return return_value   
+
+
+print spiralize(501, 15) == 
     
     
     
