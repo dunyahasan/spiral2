@@ -19,5 +19,5 @@ sum(x)= n
     
     
     
- return spiralize (501, 15) #starting point taken from test file
+
 
