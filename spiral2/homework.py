@@ -1,8 +1,18 @@
 def spiralize(size, n=1):
-    #for loop where 501 by 501 dimensions have a spiral summed 
-    n= starting number []
+    
+    n= starting number
+    
+    x= +2 
+    
+    #start = 15
+    
+    nubers_sum=sum((n+x)*4)
+   
+  
+   return_value = n
+    return return_value   
     
     
     
- return spiralize (501, 15) #number taken from 
+ return spiralize (501, 15) #starting point taken from test file
 
