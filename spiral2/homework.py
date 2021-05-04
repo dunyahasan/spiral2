@@ -6,7 +6,7 @@ def spiralize(size, n=1):
     z #starting number
     
     
-    for i= 15 to 251001: 
+    for i in range(501*501):
     print (x)
         
    x== 4**(z+2)
