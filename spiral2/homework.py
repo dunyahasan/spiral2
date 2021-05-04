@@ -1,13 +1,18 @@
 def spiralize(size, n=1):
     
-    n= starting number
+    n= #sum
+    x= #diagonals
+    i= #number in spiral
+    z= #starting number
     
-    x= +2 
     
-    #start = 15
+    for i= 15 to 251001: 
+    print (x)
+        
+   x== 4**(z+2)
     
-    nubers_sum=sum((n+x)*4)
-   
+    
+sum(x)= n
   
    return_value = n
     return return_value   
